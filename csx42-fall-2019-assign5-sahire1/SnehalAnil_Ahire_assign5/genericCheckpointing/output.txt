@@ -1,0 +1,7 @@
+<DPSerialization><complexType xsi:type=class genericCheckpointing.util.MyAllTypesFirst
+<myInt xsi:type=xsd:int>314</myInt>
+<myLong xsi:type=xsd:long>314159</myLong>
+<myString xsi:type=xsd:string>Design Patterns</myString>
+<myBool xsi:type=xsd:boolean>false</myBool>
+<myOtherInt xsi:type=xsd:int>314</myOtherInt>
+</DPSerialization>
